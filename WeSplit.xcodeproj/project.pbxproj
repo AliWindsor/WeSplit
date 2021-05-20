@@ -56,6 +56,7 @@
 		360397912654410700C6AAFF /* WeSplit */ = {
 			isa = PBXGroup;
 			children = (
+				360397A42654518700C6AAFF /* ContentView.swift */,
 				360397A126544BBD00C6AAFF /* Notes */,
 				360397922654410700C6AAFF /* WeSplitApp.swift */,
 				360397962654410F00C6AAFF /* Assets.xcassets */,
@@ -78,7 +79,6 @@
 			children = (
 				360397942654410700C6AAFF /* ContentViewNotesOne.swift */,
 				360397A226544C1600C6AAFF /* ContentViewNotesTwo.swift */,
-				360397A42654518700C6AAFF /* ContentView.swift */,
 			);
 			path = Notes;
 			sourceTree = "<group>";
